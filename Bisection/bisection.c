@@ -1,6 +1,4 @@
-/* ROLL NO: 10092
-REGISTRATION NO: 0191506031646
-METHOD : BISECTION METHOD */
+/* METHOD : BISECTION METHOD */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
