@@ -1,4 +1,4 @@
-/* METHOD : TRAPEZOIDAL METHOD */
+/* METHOD : Simpson's */
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
