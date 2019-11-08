@@ -1,4 +1,4 @@
-/* METHOD : TRAPEZOIDAL METHOD */
+/* METHOD : Regula Falsi Method*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
